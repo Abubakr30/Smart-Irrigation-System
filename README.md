@@ -9,3 +9,9 @@ External Libraries Used:
  PubSubClient.h: Enables MQTT communication.
  DHT.h: Reads data from the DHT11 sensor.
  LiquidCrystal_I2C.h: Controls the I2C LCD display.
+
+
+The video of the project:
+
+https://drive.google.com/file/d/1TnGlae5A18_GJAMoFDpfnNkChaQrYb2N/view
+
